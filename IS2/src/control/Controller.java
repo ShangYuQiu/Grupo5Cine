@@ -47,7 +47,7 @@ public class Controller {
 		boolean refresh = true;
 		
 		while ( refresh) {
-			
+			// mostrar menu de opciones
 			menu();
 			System.out.println("Introduce opcion");
 			int i = scanner.nextInt();
