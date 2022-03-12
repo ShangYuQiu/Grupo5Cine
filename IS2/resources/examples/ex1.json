@@ -1,0 +1,45 @@
+{
+  "events": 
+  [
+   {
+     "type" : "new_film",
+     "data" : {
+     	 "titulo" : "Belle",
+         	"edadRec"   :12 ,
+      	 "genero" : "Animacion",
+      	 "duracion" : 121,
+      	 "sala" : 1
+   	 }
+   },	
+   {
+      "type" : "new_film",
+     "data" : {
+     	 "titulo" : "¡Canta 2!",
+         	"edadRec"   :12 ,
+      	 "genero" : "Animacion",
+      	 "duracion" : 112,
+      	 "sala" : 2
+   	 }
+   },	
+   {
+      "type" : "new_film",
+     "data" : {
+     	 "titulo" : "The Batman",
+         	"edadRec"   :12 ,
+      	 "genero" : "SuperHeroes",
+      	 "duracion" : 176,
+      	 "sala" : 3
+   	 }
+   },	
+   {
+      "type" : "new_film",
+     "data" : {
+     	 "titulo" : "La Abuela",
+         	"edadRec"   :18 ,
+      	 "genero" : "Terror",
+      	 "duracion" : 100,
+      	 "sala" : 4
+   	 }
+   }
+   ]
+}
