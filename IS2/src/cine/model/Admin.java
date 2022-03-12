@@ -8,5 +8,5 @@ public class Admin extends Usuario{
 		super(id);
 		// TODO Auto-generated constructor stub
 	}
-
+////test zheng xu
 }
