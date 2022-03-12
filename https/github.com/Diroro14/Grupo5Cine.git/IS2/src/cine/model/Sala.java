@@ -10,12 +10,13 @@ public class Sala {
 	public Sala (int numero, int aforo ,int capacidad) {
 		
 		if ( numero < 1 || aforo < 1 || capacidad < 1) {
-			throw new IllegalArgumentException(" Valor de entrada invalida");
+			throw new IllegalArgumentException("Argumento erroneo en el constructor de Sala");
 		}
-		
+		else {
 		this.numero = numero;
 		this.aforo = aforo;
 		this.capacidad = capacidad;
+		}
 	}
 	
 	

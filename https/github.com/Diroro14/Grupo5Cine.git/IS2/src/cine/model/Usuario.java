@@ -9,7 +9,9 @@ public class Usuario {
 		if ( id == null) {
 			throw new IllegalArgumentException(" Valor de entrada invalida");
 		}
-		this.id = id;
+		else{
+			this.id = id;
+		}
 	}
 	
 	
