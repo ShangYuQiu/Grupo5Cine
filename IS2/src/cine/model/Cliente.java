@@ -1,7 +1,7 @@
 package cine.model;
 
 public class Cliente extends Usuario{
-	
+	// comentario
 	private String id;
 	private int edad;
 	
